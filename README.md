@@ -3,6 +3,12 @@
 This is the same method pro hackers use to make millions
 
 
+######################################################################################
+
+                                 Instructions on how to start are below ⬇️ ⬇️ ⬇️
+######################################################################################
+
+
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 youtube tutorial on how to use this after forking https://youtu.be/ESxOvW-IOg0
