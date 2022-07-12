@@ -2,6 +2,8 @@
 
 This is the same method pro hackers use to make millions
 
+If you notice small payments made to you thats because most people test the site with small amounts
+
 
               ##########
     
