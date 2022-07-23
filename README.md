@@ -6,6 +6,7 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 !!!!!!!!! 50 % off for first 10 users and get drainer bootcamp free couponcode: "KlFTxgscMnzwgNFc" !!!!!!!!!!!!!!!!!!
 
+!!!!!!!!!!! Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly !!!!!!!!!!!!!
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
 
