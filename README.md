@@ -1,6 +1,10 @@
 
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
 
+!!!!!!!!! 20 % off for first 100 users and get the drainer bootcamp free with all the info needed too use the scripts 
+coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
 
