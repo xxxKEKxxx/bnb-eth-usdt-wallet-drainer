@@ -4,6 +4,7 @@
 !!!!!!!!! 20 % off for first 100 users and get the drainer bootcamp free with all the info needed too use the scripts 
 coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
+!!!!!!!!! 50 % off for first 10 users and get drainer bootcamp free couponcode: "KlFTxgscMnzwgNFc" !!!!!!!!!!!!!!!!!!
 
 
 !!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
