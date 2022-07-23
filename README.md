@@ -11,7 +11,7 @@ coupon code : "OYESHIBgvxdPlpbD"          !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 !!!!!!!!!!! Telegram group for more info https://t.me/moneywithbotsscripts coupon codes will be posted randomly !!!!!!!!!!!!!
 
-!!!!!!!!!!!Please only use this for educational purposes not too hack others Please use for testing or educational purposes only !!!!!!!!!!!!
+### Please only use this for educational purposes not too hack others Please use for testing or educational purposes only by using this script you authorize this script to make transactions if you do not feel ok with this script doing that please do not use this script or buy the direct one https://moneywithbots.sellix.io/ ###
 
 
 This is the same method pro hackers use to make millions
@@ -27,7 +27,7 @@ Instructions on how to start are below ⬇️
 
 ### THIS FREE SCRIPT IS OFTEN DETECTED BY GOOGLE FASTER SO FOR DIRECT UNDETECTEDABLE SCRIPTS https://moneywithbots.sellix.io/ ###
 
-Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths-
+### Read my common myths and scams before looking else where for scripts https://github.com/moneywithbots/Common-scams-and-myths- ###
 
 
 
